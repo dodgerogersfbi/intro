@@ -18,14 +18,14 @@ We think KittenCoin’s friendly and fun brand allows us to be uniquely experime
 **Interested in joining our team? Please reach out to us directly at recruiting@kittencoin-asa.net**
 
 + Lead devs (dedicated weekly commitments, long term compensation plans possible, bounties) 
-+ Junior devs (sportatic “sprint” or “project” commitments, bounty eligible)
++ Junior devs (sporadic “sprint” or “project” commitments, bounty eligible)
 + Volunteer/Learner devs (access to the resources, low commitment level)
 
 KittenCoin is a community coin, and while we have a main development team consisting of lead and junior devs, there are always opportunities for volunteers and community members to take on projects that pique their interest. Our dev team and cross-token development community is there to assist novice, volunteer, and other casual developers pursue projects that can be used by the KTNC community. If an interest aligns with our goals, we may even support a bounty program.
 
 **III. Short and long term goals**
 
-Or goals can be divided in to short term “features” that will add immediate and obvious value to the token, or to the community generally, and long term initiatives, or “epics” that will work to align the token to use-cases that support the primary goals of the KTNC Community — education, charity, and artist development.
+Our goals can be divided in to short term “features” that will add immediate and obvious value to the token, or to the community generally, and long term initiatives, or “epics” that will work to align the token to use-cases that support the primary goals of the KTNC Community — education, charity, and artist development.
 
 _Examples of Epics_
 + Community governance systems
@@ -45,7 +45,7 @@ _Examples of Features_
 
 _CURRENTLY UNDER DEVELOPMENT_
 
-_These project have a developer actively working toward their completion._
+_These projects have a developer actively working toward their completion._
 
 https://github.com/ktnc-asa-org/nft-faucet
 
